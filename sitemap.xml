@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+    
+        <url>
+            <loc>https%3A//www.arthurmeimei.com/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.arthurmeimei.com/categories/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.arthurmeimei.com/categories/posts/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.arthurmeimei.com/hello/</loc>
+            
+                <lastmod>2020-10-07</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.arthurmeimei.com/page/1/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.arthurmeimei.com/tags/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https%3A//www.arthurmeimei.com/tags/random/</loc>
+            
+        </url>
+    
+</urlset>
